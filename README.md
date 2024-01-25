@@ -5,17 +5,12 @@
 This repository contains the molecular structures generated from the MolecularSolidBuilder tool (https://github.com/MoleCraftHUB/MolecularSolidBuilder).
 
 
-![plot](./images/exp-VS-model_13cnmr.png)
-<img src="./images/exp-VS-model_13cnmr.png" width="200">
+<img src="./images/exp-VS-model_13cnmr.png" width="400">
 
-![plot](./images/exp-VS-model_Elements.png)
+<img src="./images/exp-VS-model_Elements.png" width="400">
 
+<img src="./images/exp-VS-model_Mass-distribution.png" width="400">
 
-![plot](./images/exp-VS-model_Mass-distribution.png)
+<img src="./images/exp-VS-model_IRspectra.png" width="400">
 
-
-![plot](./images/exp-VS-model_13cnmr.png)
-
-
-![plot](./images/exp-VS-model_IRspectra.png)
 
