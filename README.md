@@ -6,7 +6,7 @@ This repository contains the molecular structures generated from the MolecularSo
 
 
 ![plot](./images/exp-VS-model_13cnmr.png)
-
+<img src="https://github.com/favicon.ico" width="48">
 
 ![plot](./images/exp-VS-model_Elements.png)
 
@@ -18,3 +18,4 @@ This repository contains the molecular structures generated from the MolecularSo
 
 
 ![plot](./images/exp-VS-model_IRspectra.png)
+
