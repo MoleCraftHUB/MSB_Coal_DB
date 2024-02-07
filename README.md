@@ -12,20 +12,20 @@ This repository contains the molecular structures generated from the MolecularSo
     │   ├── Coal_Mass_Distribution.csv    # csv file for experimental mass distribution data
     │   └── Coal_NMR.csv                  # csv file for experimental 13C-NMR data
     ├── Monarch/                          
-    │   ├── Condensed_Data/               # xyz files for gas and solid phase for the coal model
+    │   ├── Condensed_Data/               # structure files for gas and solid phase for the coal model
     │   ├── Model_Construction/           # jupyter notebook example for construction workflow using MolecularSolidBuilder tool
-    │   └── Molecular_Data/               # xyz files for individual molecules in each range of molecular weight
+    │   └── Molecular_Data/               # structure files for individual molecules in each range of molecular weight
     ├── Herrin/                    
-    │   ├── Condensed_Data/               # xyz files for gas and solid phase for the coal model
-    │   └── Molecular_Data/               # xyz files for individual molecules in each range of molecular weight
+    │   ├── Condensed_Data/               # structure files for gas and solid phase for the coal model
+    │   └── Molecular_Data/               # structure files for individual molecules in each range of molecular weight
     ├── Springfield/                    
-    │   ├── Condensed_Data/               # xyz files for gas and solid phase for the coal model
-    │   └── Molecular_Data/               # xyz files for individual molecules in each range of molecular weight
+    │   ├── Condensed_Data/               # structure files for gas and solid phase for the coal model
+    │   └── Molecular_Data/               # structure files for individual molecules in each range of molecular weight
     ├── Blue Gem/                    
-    │   ├── Condensed_Data/               # xyz files for gas and solid phase for the coal model
-    │   ├── Molecular_Data/               # xyz files for individual molecules in each range of molecular weight
-    │   ├── ReaxFF_Mattsson/              # xyz files at t=0ns and t=1ns of 2073 K ReaxFF simulations using Mattsson parameter
-    │   └── ReaxFF_Nielson/               # xyz files at t=0ns and t=1ns of 2073 K ReaxFF simulations using Nielson parameter
+    │   ├── Condensed_Data/               # structure files for gas and solid phase for the coal model
+    │   ├── Molecular_Data/               # structure files for individual molecules in each range of molecular weight
+    │   ├── ReaxFF_Mattsson/              # structure files at t=0ns and t=1ns of 2073 K ReaxFF simulations using Mattsson parameter
+    │   └── ReaxFF_Nielson/               # structure files at t=0ns and t=1ns of 2073 K ReaxFF simulations using Nielson parameter
     └── images/
 
 ### Experimental data VS atomistic model data
